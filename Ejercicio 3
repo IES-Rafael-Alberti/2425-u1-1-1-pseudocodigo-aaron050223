@@ -1,0 +1,11 @@
+Actividad 3
+
+Inicio
+  Leer X
+  Si X <= 1
+  Escribir X no es primo
+  Si X tiene más de 2 divisores
+  Escribir X no es primo
+  Si X tiene 2 divisores
+  Escribir X es primo
+Fin

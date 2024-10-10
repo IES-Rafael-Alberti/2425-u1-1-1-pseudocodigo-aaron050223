@@ -1,10 +1,9 @@
 Actividad 1 
 
 Inicio
- Leer X
-   Si X % 2 == 0
-      Escribir X es un número par
+ Leer x
+ Si x % 2 == 0
+   Escribir x + "es un número par."
  Sino
-   Si X % 2 == 1
-      Escribir X es un número impar
+   Escribir x + "es un número impar."
 Fin

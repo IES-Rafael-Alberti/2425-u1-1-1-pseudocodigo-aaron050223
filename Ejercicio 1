@@ -1,0 +1,9 @@
+Actividad 1 
+
+Inicio
+ Leer x
+ Si x % 2 == 0
+   Escribir x + "es un número par."
+ Sino
+   Escribir x + "es un número impar."
+Fin
